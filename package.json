@@ -1,0 +1,30 @@
+{
+  "name": "woovly-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js",
+    "start": "node bin/dev",
+    "build": "mkdir dist && babel src -s -d dist",
+    "dev": "nodemon --exec npm run @babel/node -- ./spec.js",
+    "lint": "eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "appium": "^1.11.1",
+    "appium-doctor": "^1.9.0",
+    "protractor": "^5.4.2",
+    "protractor-take-screenshots-on-demand": "^1.2.0"
+  },
+  "devDependencies": {
+    "@babel/node": "^7.2.2",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-register": "^6.26.0"
+  }
+}
