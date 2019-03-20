@@ -11,8 +11,6 @@ var SignupPO = function() {
   var splash_next_2 = $('[ng-click="nextHelpWebFeeds()"]');
   var splash_getstarted = $('[ng-click="landOnFeeds()"]');
   var submit_location = $('[ng-click="confirmLocation($event,1)"]');
-  var google_button = element(by.id("googleLbtn2"));
-  var fb_button = element(by.id("fbBtnGlobal"));
 
   this.signUp = async (user_name, email_id, password, d) => {
     await name.sendKeys(user_name);
@@ -39,10 +37,6 @@ var SignupPO = function() {
         // element is not visible
       }
     });
-  };
-
-  this.getRandomInt = function(min, max) {
-    return Math.floor(Math.random() * (max - min + 1)) + min;
   };
 };
 module.exports = new SignupPO();
