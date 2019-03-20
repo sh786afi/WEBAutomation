@@ -2,7 +2,6 @@ var data = require("./conf");
 var SignupPO = require("./signup");
 var LoginPO = require("./login");
 var ran = Math.floor(100000 + Math.random() * 900000);
-
 describe("Sign Up", function() {
   beforeEach(async () => {
     browser.ignoreSynchronization = true;
@@ -11,7 +10,7 @@ describe("Sign Up", function() {
     jasmine.DEFAULT_TIMEOUT_INTERVAL = 200000;
   });
 
-  it("CASE 1:-Sign Up with all valid data", async () => {
+  it("TestTestCase 1:-Sign Up with all valid data", async () => {
     await LoginPO.signupSinginLink();
     await SignupPO.signUp(
       "shafi",
@@ -22,10 +21,10 @@ describe("Sign Up", function() {
     await SignupPO.splashScreen();
     await LoginPO.offerClose();
     await LoginPO.Logout();
-    console.log("Case 1 PASSED");
+    console.log("TestCase 1 PASSED");
   });
 
-  it("CASE 2:- Sign Up with all valid data expect Invalid email id  ", async () => {
+  it("TestCase 2:- Sign Up with all valid data expect Invalid email id  ", async () => {
     await LoginPO.signupSinginLink();
     await SignupPO.signUp(
       "shafi",
@@ -36,9 +35,9 @@ describe("Sign Up", function() {
     await expect(element(by.className("toast-message")).getText()).toEqual(
       "Please enter valid email address"
     );
-    console.log("Case 2 PASSED");
+    console.log("TestCase 2 PASSED");
   });
-  it("CASE 3:- Sign Up with all valid data and empty Full name ", async () => {
+  it("TestCase 3:- Sign Up with all valid data and empty Full name ", async () => {
     await LoginPO.signupSinginLink();
     await SignupPO.signUp(
       "",
@@ -49,43 +48,43 @@ describe("Sign Up", function() {
     await expect(element(by.className("toast-message")).getText()).toEqual(
       "Please enter user name"
     );
-    console.log("Case 3 PASSED");
+    console.log("TestCase 3 PASSED");
   });
-  it("CASE 4:- Sign Up with all valid data and empty email id", async () => {
+  it("TestCase 4:- Sign Up with all valid data and empty email id", async () => {
     await LoginPO.signupSinginLink();
     await SignupPO.signUp("shafi", "", "123456", 1);
     await expect(element(by.className("toast-message")).getText()).toEqual(
       "Please enter email address"
     );
-    console.log("Case 4 PASSED");
+    console.log("TestCase 4 PASSED");
   });
-  it("CASE 5:-Sign Up with all valid data and empty password ", async () => {
+  it("TestCase 5:-Sign Up with all valid data and empty password ", async () => {
     await LoginPO.signupSinginLink();
     await SignupPO.signUp("shafi", "shafi" + ran + "1@auto.com", "", 1);
     await expect(element(by.className("toast-message")).getText()).toEqual(
       "Please enter password"
     );
-    console.log("Case 5 PASSED");
+    console.log("TestCase 5 PASSED");
   });
-  it("CASE 6:- Sign Up with all valid data and  empty DOB", async () => {
+  it("TestCase 6:- Sign Up with all valid data and  empty DOB", async () => {
     await LoginPO.signupSinginLink();
     await SignupPO.signUp("shafi", "shafi" + ran + "1@auto.com", "123456", 0);
     await expect(element(by.className("toast-message")).getText()).toEqual(
       "Please provide valid date of birth"
     );
-    console.log("Case 6 PASSED");
+    console.log("TestCase 6 PASSED");
   });
 
-  it("CASE 7:- Sign Up with all valid data and already existing email id", async () => {
+  it("TestCase 7:- Sign Up with all valid data and already existing email id", async () => {
     await LoginPO.signupSinginLink();
     await SignupPO.signUp("shafi", "para27rsh@gmail.com", "123456", 0);
     await expect(element(by.className("toast-message")).getText()).toEqual(
       "Email address already registered"
     );
-    console.log("Case 7 PASSED");
+    console.log("TestCase 7 PASSED");
   });
   browser.sleep(5000);
-  it("CASE 8:-Sign Up with Facebook", async () => {
+  it("TestCase 8:-Sign Up with Facebook", async () => {
     await LoginPO.signupSinginLink();
     await LoginPO.fbLogin(
       data.config.params.fb_email,
@@ -94,5 +93,5 @@ describe("Sign Up", function() {
     await LoginPO.offerClose();
     await LoginPO.Logout();
   });
-  console.log("Case 8 PASSED");
+  console.log("TestCase 8 PASSED");
 });
