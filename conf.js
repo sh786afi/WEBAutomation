@@ -14,7 +14,7 @@ exports.config = {
   // your config here ...
 
   onPrepare: function() {
-    // Add a screenshot reporter and store screenshots to `/tmp/screenshots`:
+    // Add a screenshot reporter and store screenshots to `/woovly/screenshots`:
     jasmine.getEnv().addReporter(
       new HtmlReporter({
         baseDirectory: "woovly/screenshots"
