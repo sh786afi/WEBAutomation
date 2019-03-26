@@ -19,7 +19,7 @@ describe("Sign Up", function() {
       "123456",
       true
     );
-    browser.sleep(2000);
+    browser.sleep(3000);
     await doSignup.splashScreen();
     browser.sleep(2000);
     await doLogin.offerClose();
@@ -118,6 +118,6 @@ describe("Sign Up", function() {
     browser.sleep(2000);
     await doLogin.Logout();
     browser.sleep(2000);
+    console.log("TestCase 8 PASSED");
   });
-  console.log("TestCase 8 PASSED");
 });

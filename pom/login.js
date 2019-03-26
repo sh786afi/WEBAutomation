@@ -1,5 +1,69 @@
 var { LOCATOR_LOGIN } = require("../lib/constant");
 var doLogin = function() {
+  async function loginButton() {
+    await LOCATOR_LOGIN.login_button.click();
+  }
+
+  async function clickLogin() {
+    await LOCATOR_LOGIN.click_login.click();
+  }
+
+  async function emailClick() {
+    await LOCATOR_LOGIN.email.click();
+  }
+
+  async function emailSend(email_id) {
+    await LOCATOR_LOGIN.email.sendKeys(email_id);
+  }
+
+  async function passwordClick() {
+    await LOCATOR_LOGIN.password.click();
+  }
+
+  async function passwordSend(Pass) {
+    await LOCATOR_LOGIN.password.sendKeys(Pass);
+  }
+
+  async function signIn() {
+    await LOCATOR_LOGIN.sign_in.click();
+  }
+
+  async function closeApp() {
+    await LOCATOR_LOGIN.close_app.isDisplayed().then(function(isVisible) {
+      if (isVisible) {
+        LOCATOR_LOGIN.close_app.click();
+        console.log("App Closed Successfully...");
+      } else {
+        console.log("Element not Visible");
+      }
+    });
+  }
+  //For random number
+  this.getRandomInt = function(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  };
+  async function getWoovly(url) {
+    await browser.get(url);
+    await browser.driver
+      .manage()
+      .window()
+      .maximize();
+  }
+  this.Get_Email_Login = async (url, email, pass) => {
+    await getWoovly(url);
+    browser.sleep(4000);
+    await loginButton();
+    browser.sleep(2000);
+    await clickLogin();
+    await emailClick();
+    await emailSend(email);
+    await passwordClick();
+    await passwordSend(pass);
+    await signIn();
+    browser.sleep(6000);
+    await closeApp();
+    browser.sleep(2000);
+  };
   this.openBrowser = async url => {
     await browser.get(url);
     await browser.driver
