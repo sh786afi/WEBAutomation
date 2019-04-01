@@ -114,7 +114,7 @@ describe("Sign Up", function() {
       data.config.params.fb_password
     );
     browser.sleep(2000);
-    await doLogin.offerClose();
+    //await doLogin.offerClose();
     browser.sleep(2000);
     await doLogin.Logout();
     browser.sleep(2000);

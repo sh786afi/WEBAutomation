@@ -5,14 +5,14 @@ exports.config = {
   seleniumAddress: "http://localhost:4444/wd/hub",
   params: {
     url: "https://alpha.woovly.com",
-    fb_email: "",
-    fb_password: "",
+    fb_email: "karanxelp@yahoo.com",
+    fb_password: "admin123",
     excel_path: "",
     ran: Math.floor(100000 + Math.random() * 900000),
     ran1: Math.floor(100000 + Math.random() * 900000),
     uploadImage: "../testData/images/haunted/",
-    userEmailid: "",
-    userEmailPass: ""
+    userEmailid: "tester@gmail.com",
+    userEmailPass: "123456"
   },
   capabilities: {
     browserName: "chrome",
@@ -25,7 +25,12 @@ exports.config = {
       args: ["no-sandbox"]
     }
   },
-  specs: ["./spec/specSignup.js", "./spec/specAddStory.js"],
+  specs: [
+    // "./spec/specInviteFriend.js",
+  //   "./spec/specSignup.js",
+  //  "./spec/specAddStory.js"
+  "./spec/specAddOthersBucket.js"
+],
 
   // your config here ...
 
