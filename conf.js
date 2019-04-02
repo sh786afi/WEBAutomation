@@ -26,10 +26,11 @@ exports.config = {
     }
   },
   specs: [
-    "./spec/specSignup.js",
-    "./spec/specAddStory.js",
-    "./spec/specInviteFriend.js",
-    "./spec/specAddOthersBucket.js"
+    // "./spec/specSignup.js",
+    // "./spec/specAddStory.js",
+    // "./spec/specInviteFriend.js",
+    // "./spec/specAddOthersBucket.js",
+    "./spec/specLikePost.js"
   ],
 
   // your config here ...

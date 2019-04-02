@@ -9,7 +9,7 @@ var { uploadImage, datetime } = require("../lib/common.js");
 var { LOCATOR_UPLOAD } = require("../lib/constant");
 
 browser.waitForAngularEnabled(true);
-describe("Woovly Invite Friend Module ", function() {
+describe("Woovly Bucket List Module ", function() {
   originalTimeout = jasmine.DEFAULT_TIMEOUT_INTERVAL;
   jasmine.DEFAULT_TIMEOUT_INTERVAL = 5000000;
   beforeEach(async () => {
