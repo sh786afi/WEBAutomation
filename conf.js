@@ -17,7 +17,7 @@ exports.config = {
   capabilities: {
     browserName: "chrome",
     shardTestFiles: true,
-    maxInstances: 2,
+    maxInstances: 1,
     chromeOptions: {
       args: ["--headless", "--disable-gpu", "--window-size=1800,1200"]
     },
@@ -26,11 +26,11 @@ exports.config = {
     }
   },
   specs: [
-    // "./spec/specInviteFriend.js",
-  //   "./spec/specSignup.js",
-  //  "./spec/specAddStory.js"
-  "./spec/specAddOthersBucket.js"
-],
+    "./spec/specSignup.js",
+    "./spec/specAddStory.js",
+    "./spec/specInviteFriend.js",
+    "./spec/specAddOthersBucket.js"
+  ],
 
   // your config here ...
 

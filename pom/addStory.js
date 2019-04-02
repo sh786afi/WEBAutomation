@@ -1,6 +1,6 @@
 var data = require("../conf.js");
 var { uploadImage } = require("../lib/common.js");
-var { LOCATOR_STORY } = require("../lib/constant");
+var { LOCATOR_STORY, LOCATOR_UPLOAD } = require("../lib/constant");
 var AddStory = function() {
   // ============ Add Story =============
 
@@ -121,7 +121,11 @@ var AddStory = function() {
     await selectDropdown();
     await clickNext();
     browser.sleep(4000);
-    await uploadImage(data.config.params.uploadImage, 1);
+    await uploadImage(
+      data.config.params.uploadImage,
+      1,
+      LOCATOR_UPLOAD.uploadCoverImage
+    );
     browser.sleep(10000);
     await sendTitle("Automated Story id" + " " + data.config.params.ran);
     console.log(data.config.params.ran);
@@ -151,7 +155,11 @@ var AddStory = function() {
     await selectDropdown();
     await clickNext();
     browser.sleep(4000);
-    await uploadImage(data.config.params.uploadImage, 1);
+    await uploadImage(
+      data.config.params.uploadImage,
+      1,
+      LOCATOR_UPLOAD.uploadCoverImage
+    );
     browser.sleep(15000);
     await sendTitle("Automated Story id" + " " + data.config.params.ran1);
     console.log(data.config.params.ran1);
