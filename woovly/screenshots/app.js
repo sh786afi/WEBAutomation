@@ -8707,6 +8707,548 @@ app.controller('ScreenshotReportController', function ($scope, $http) {
         "screenShotFile": "0081001e-00c5-0096-00eb-00f70025001d.png",
         "timestamp": 1554217209113,
         "duration": 23575
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "41191977be8305bef916305b6ab6c78f",
+        "instanceId": 18997,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "Failed: likeStory is not a function"
+        ],
+        "trace": [
+            "TypeError: likeStory is not a function\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specLikeStory.js:19:11)\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:112:25\n    at new ManagedPromise (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n    at ControlFlow.promise (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n    at schedulerExecute (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2974:25)\n    at /home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\nFrom: Task: Run it(\"Positive Case1 :- Like a Story \") in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n    at shutdownTask_.MicroTask (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specLikeStory.js:18:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specLikeStory.js:7:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554218619812,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554218633016,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554218633017,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554218633017,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "008d001e-008c-001f-0002-00f300ef0093.png",
+        "timestamp": 1554218616773,
+        "duration": 21408
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "d83b96c684cc4c8f530572c35831a970",
+        "instanceId": 20223,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554219081557,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219094740,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219094740,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554219094741,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"gutter-size is deprecated. Use ag-gutter-size instead in template.\"",
+                "timestamp": 1554219102372,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"refresh-on-img-load is deprecated. Use ag-refresh-on-img-load instead in template.\"",
+                "timestamp": 1554219102372,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"angular-grid-id is deprecated. Use ag-id instead in template.\"",
+                "timestamp": 1554219102373,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219102997,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00fd003d-0017-0022-0096-00bc00cc0062.png",
+        "timestamp": 1554219079370,
+        "duration": 23676
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "c4184d934b443755c506db3dadd33153",
+        "instanceId": 21212,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "ElementNotVisibleError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)"
+        ],
+        "trace": [
+            "ElementNotVisibleError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)\n    at Object.checkLegacyResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n    at parseHttpResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n    at doSend.then.response (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.click()\n    at thenableWebDriverProxy.schedule (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElement.schedule_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n    at WebElement.click (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2092:17)\n    at actionFn (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:461:65)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at likeStory (/home/shafi/Desktop/woovly-automation/pom/likeStory.js:7:29)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554219469568,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219482596,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219482596,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554219482596,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"gutter-size is deprecated. Use ag-gutter-size instead in template.\"",
+                "timestamp": 1554219490278,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"refresh-on-img-load is deprecated. Use ag-refresh-on-img-load instead in template.\"",
+                "timestamp": 1554219490279,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"angular-grid-id is deprecated. Use ag-id instead in template.\"",
+                "timestamp": 1554219490279,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219492374,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219492374,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "001200b1-005c-0014-0021-009a00370031.png",
+        "timestamp": 1554219467377,
+        "duration": 26020
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "7e400866e73acacb19b065ffe65bc5af",
+        "instanceId": 21534,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "ElementNotVisibleError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)"
+        ],
+        "trace": [
+            "ElementNotVisibleError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)\n    at Object.checkLegacyResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n    at parseHttpResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n    at doSend.then.response (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.click()\n    at thenableWebDriverProxy.schedule (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElement.schedule_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n    at WebElement.click (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2092:17)\n    at actionFn (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:461:65)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at likeStory (/home/shafi/Desktop/woovly-automation/pom/likeStory.js:7:29)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554219518703,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219531778,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219531778,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554219531779,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"gutter-size is deprecated. Use ag-gutter-size instead in template.\"",
+                "timestamp": 1554219539456,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"refresh-on-img-load is deprecated. Use ag-refresh-on-img-load instead in template.\"",
+                "timestamp": 1554219539456,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"angular-grid-id is deprecated. Use ag-id instead in template.\"",
+                "timestamp": 1554219539456,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219540117,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219545159,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00a3003e-00f9-00d0-00d7-00b5002000f3.png",
+        "timestamp": 1554219517048,
+        "duration": 28222
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "5f9fdfe5672cb0507868bde1c749c0b0",
+        "instanceId": 21849,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554219602887,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219617006,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219617006,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554219617006,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"gutter-size is deprecated. Use ag-gutter-size instead in template.\"",
+                "timestamp": 1554219624811,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"refresh-on-img-load is deprecated. Use ag-refresh-on-img-load instead in template.\"",
+                "timestamp": 1554219624811,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"angular-grid-id is deprecated. Use ag-id instead in template.\"",
+                "timestamp": 1554219624811,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219629995,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219629995,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/stories/automated-story-id-857777 3579 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219630513,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/stories/automated-story-id-857777 3579 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219630513,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219631318,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00b500c7-00ce-0083-002e-008e00b90051.png",
+        "timestamp": 1554219601261,
+        "duration": 45877
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "36dc16e0e49e00392c2d4e652e477c2d",
+        "instanceId": 22239,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "NoSuchElementError: No element found using locator: By(css selector, [ng-click=\"likeStoryParent($event,bid,1,like_id,pid,storyDet.story_id,0)])"
+        ],
+        "trace": [
+            "NoSuchElementError: No element found using locator: By(css selector, [ng-click=\"likeStoryParent($event,bid,1,like_id,pid,storyDet.story_id,0)])\n    at elementArrayFinder.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:814:27)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n    at /home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at likeStory (/home/shafi/Desktop/woovly-automation/pom/likeStory.js:9:28)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554219801474,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219815604,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219815604,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554219815605,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"gutter-size is deprecated. Use ag-gutter-size instead in template.\"",
+                "timestamp": 1554219823323,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"refresh-on-img-load is deprecated. Use ag-refresh-on-img-load instead in template.\"",
+                "timestamp": 1554219823323,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"angular-grid-id is deprecated. Use ag-id instead in template.\"",
+                "timestamp": 1554219823323,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219825450,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219825450,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/stories/automated-story-id-857777 3579 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219826976,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/stories/automated-story-id-857777 3579 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219826976,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219827643,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00c00072-0016-008e-0096-00a50086007f.png",
+        "timestamp": 1554219798829,
+        "duration": 37588
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "c3955b87227e07e1b5e05f4fb4fcf4bc",
+        "instanceId": 22595,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554219949024,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219962668,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219962668,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554219962668,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"gutter-size is deprecated. Use ag-gutter-size instead in template.\"",
+                "timestamp": 1554219970441,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"refresh-on-img-load is deprecated. Use ag-refresh-on-img-load instead in template.\"",
+                "timestamp": 1554219970441,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"angular-grid-id is deprecated. Use ag-id instead in template.\"",
+                "timestamp": 1554219970441,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219971116,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219973150,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/stories/automated-story-id-857777 3579 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219973757,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/stories/automated-story-id-857777 3579 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554219973757,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554219974345,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000d001f-0043-008d-00b1-007700990076.png",
+        "timestamp": 1554219946730,
+        "duration": 41827
     }
 ];
 

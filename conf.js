@@ -30,7 +30,8 @@ exports.config = {
     // "./spec/specAddStory.js",
     // "./spec/specInviteFriend.js",
     // "./spec/specAddOthersBucket.js",
-    "./spec/specLikePost.js"
+    //"./spec/specLikePost.js"
+    "./spec/specLikeStory.js"
   ],
 
   // your config here ...
