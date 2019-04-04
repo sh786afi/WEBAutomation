@@ -5,11 +5,35 @@ exports.config = {
   seleniumAddress: "http://localhost:4444/wd/hub",
   params: {
     url: "https://alpha.woovly.com",
-    fb_email: "shivam.parashar@xelpmoc.in",
-    fb_password: "para1993",
-    excel_path: ""
+    fb_email: "karanxelp@yahoo.com",
+    fb_password: "admin123",
+    excel_path: "",
+    ran: Math.floor(100000 + Math.random() * 900000),
+    ran1: Math.floor(100000 + Math.random() * 900000),
+    uploadImage: "../testData/images/haunted/",
+    userEmailid: "tester@gmail.com",
+    userEmailPass: "123456"
   },
-  specs: ["spec.js"],
+  capabilities: {
+    browserName: "chrome",
+    shardTestFiles: true,
+    maxInstances: 1,
+    chromeOptions: {
+      args: ["--headless", "--disable-gpu", "--window-size=1800,1200"]
+    },
+    chromeOptions: {
+      args: ["no-sandbox"]
+    }
+  },
+  specs: [
+    // "./spec/specSignup.js",
+    // "./spec/specAddStory.js",
+    // "./spec/specInviteFriend.js",
+    // "./spec/specAddOthersBucket.js",
+    //"./spec/specLikePost.js",
+    // "./spec/specLikeStory.js",
+    "./spec/specMyProfile.js"
+  ],
 
   // your config here ...
 
