@@ -9249,6 +9249,7756 @@ app.controller('ScreenshotReportController', function ($scope, $http) {
         "screenShotFile": "000d001f-0043-008d-00b1-007700990076.png",
         "timestamp": 1554219946730,
         "duration": 41827
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "b925c1fcee5e952587c54cdf10d64474",
+        "instanceId": 26018,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554354954305,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554354967253,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554354967253,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554354967254,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"gutter-size is deprecated. Use ag-gutter-size instead in template.\"",
+                "timestamp": 1554354974931,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"refresh-on-img-load is deprecated. Use ag-refresh-on-img-load instead in template.\"",
+                "timestamp": 1554354974931,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/lib/exploreGrid.js 0:7298 \"angular-grid-id is deprecated. Use ag-id instead in template.\"",
+                "timestamp": 1554354974931,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554354975593,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554354977634,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/stories/automated-story-id-857777 3579 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554354978360,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/stories/automated-story-id-857777 3579 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554354978360,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554354978787,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "007500b7-0045-002f-00af-007f0093002c.png",
+        "timestamp": 1554354952149,
+        "duration": 35562
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "24f90a6de7bd325fe8b9e82417c9fe63",
+        "instanceId": 27512,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554357424694,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357437876,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357437876,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554357437877,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00600072-00ef-0010-005d-009100b100bd.png",
+        "timestamp": 1554357423235,
+        "duration": 19919
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "c7c220b4d856ea4e0e38101d212f8714",
+        "instanceId": 27879,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554357502883,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357515880,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357515880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554357515880,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00630019-005b-00ba-00de-004b00250091.png",
+        "timestamp": 1554357501308,
+        "duration": 24907
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "784f7fc92c9cf178b081be4fb6d66493",
+        "instanceId": 28505,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554357819406,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357832569,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357832569,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554357832570,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357838265,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357838265,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554357838288,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554357839360,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554357839376,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "003d004f-0066-00e1-0040-00eb006400b4.png",
+        "timestamp": 1554357817475,
+        "duration": 26940
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "a388589c070db0aaa04a9f4458fe5afa",
+        "instanceId": 28861,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554357862074,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357875130,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357875130,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554357875131,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357886063,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357886063,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554357886092,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554357887142,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554357887158,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000100b4-00d6-00e4-0073-002800020005.png",
+        "timestamp": 1554357860736,
+        "duration": 31453
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "ea4915989ad5d3980246c6844d545a18",
+        "instanceId": 29220,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554357930128,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357943451,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357943451,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554357943451,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357949168,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554357949168,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554357949190,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554357950308,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554357950323,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965364,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965364,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965364,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965364,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965364,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965364,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965364,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965364,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965364,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965364,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965364,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965365,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965365,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965365,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554357965365,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00bf008c-0035-00ce-0056-0082002800e8.png",
+        "timestamp": 1554357928400,
+        "duration": 36952
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "115e3f1c27391623b17fe17f67f676b9",
+        "instanceId": 30075,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "Failed: uploadImage is not a function"
+        ],
+        "trace": [
+            "TypeError: uploadImage is not a function\n    at myProfile.addProfilePic (/home/shafi/Desktop/woovly-automation/pom/myProfile.js:11:11)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run it(\"Positive Case1 :- Like a Story \") in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n    at shutdownTask_.MicroTask (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:17:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:6:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554358795584,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554358809442,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554358809442,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554358809443,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554358815133,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554358815133,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554358815154,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554358816716,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554358816733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827210,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827210,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827210,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827210,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827212,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827212,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827212,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827212,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827215,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827216,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827216,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827216,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827216,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827216,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358827216,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "007e00b9-0062-0079-0085-0098006600d7.png",
+        "timestamp": 1554358793978,
+        "duration": 33314
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "81b203f801d60f9b4d9269c8d5fd5177",
+        "instanceId": 30457,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554358900735,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554358914088,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554358914088,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554358914089,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554358919759,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554358919759,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554358919781,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554358920993,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554358921011,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931043,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931043,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931043,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931043,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931044,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931044,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931044,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931044,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931044,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931044,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931044,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931044,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931044,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931044,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554358931044,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "007400b4-0082-00cb-002d-007600c40042.png",
+        "timestamp": 1554358898957,
+        "duration": 32188
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "1cbb3987cc2ffe3bfc004028589791b2",
+        "instanceId": 30815,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)"
+        ],
+        "trace": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)\n    at Object.checkLegacyResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n    at parseHttpResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n    at doSend.then.response (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.sendKeys()\n    at thenableWebDriverProxy.schedule (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElement.schedule_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n    at WebElement.sendKeys (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2174:19)\n    at actionFn (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:461:65)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at fs.readdir (/home/shafi/Desktop/woovly-automation/lib/common.js:33:16)\n    at FSReqCallback.args [as oncomplete] (fs.js:145:20)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554358978084,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554358991130,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554358991130,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554358991131,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554358996877,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554358996877,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554358996897,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554358997981,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554358998003,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008036,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008036,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008036,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008036,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008036,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008036,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008036,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008036,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008037,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008037,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008037,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008037,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008037,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008037,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359008037,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00b900a0-002b-0017-00e0-0032008c00e6.png",
+        "timestamp": 1554358976511,
+        "duration": 35776
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "8cf48356f6d19f1027cf06c6cbb961b5",
+        "instanceId": 31229,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)"
+        ],
+        "trace": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)\n    at Object.checkLegacyResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n    at parseHttpResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n    at doSend.then.response (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.sendKeys()\n    at thenableWebDriverProxy.schedule (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElement.schedule_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n    at WebElement.sendKeys (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2174:19)\n    at actionFn (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:461:65)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at fs.readdir (/home/shafi/Desktop/woovly-automation/lib/common.js:33:16)\n    at FSReqCallback.args [as oncomplete] (fs.js:145:20)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554359287090,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554359300433,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554359300433,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554359300434,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554359306102,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554359306102,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554359306125,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554359307255,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554359307274,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317308,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317309,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317309,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317309,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317309,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317309,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317309,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317309,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317309,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317309,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317309,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317309,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317310,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317310,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359317310,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "009f00a8-0048-000f-00d6-00f9003200fb.png",
+        "timestamp": 1554359284838,
+        "duration": 36740
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "373c485bdd89e3a7ff73de3efd9a2b02",
+        "instanceId": 31611,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)"
+        ],
+        "trace": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)\n    at Object.checkLegacyResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n    at parseHttpResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n    at doSend.then.response (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.sendKeys()\n    at thenableWebDriverProxy.schedule (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElement.schedule_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n    at WebElement.sendKeys (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2174:19)\n    at actionFn (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:461:65)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at fs.readdir (/home/shafi/Desktop/woovly-automation/lib/common.js:33:16)\n    at FSReqCallback.args [as oncomplete] (fs.js:145:20)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554359387625,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554359400847,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554359400847,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554359400848,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554359406504,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554359406504,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554359406552,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554359407807,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554359407828,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417861,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417861,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417861,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417861,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417861,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417861,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417861,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417862,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417862,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417862,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417862,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417862,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417862,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417862,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359417862,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00bf0026-0016-00bf-0057-00500078002c.png",
+        "timestamp": 1554359385714,
+        "duration": 36381
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "d0e55fea7144190bc75ba9e4d79c7ff2",
+        "instanceId": 31976,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)"
+        ],
+        "trace": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)\n    at Object.checkLegacyResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n    at parseHttpResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n    at doSend.then.response (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.sendKeys()\n    at thenableWebDriverProxy.schedule (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElement.schedule_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n    at WebElement.sendKeys (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2174:19)\n    at actionFn (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:461:65)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at fs.readdir (/home/shafi/Desktop/woovly-automation/lib/common.js:33:16)\n    at FSReqCallback.args [as oncomplete] (fs.js:145:20)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554359433668,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554359446780,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554359446780,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554359446781,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554359452429,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554359452429,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554359452442,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554359453134,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554359463196,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467795,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467795,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467795,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467796,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467796,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467796,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467796,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467796,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467796,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467796,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467796,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467796,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467796,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467797,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554359467797,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "007100a6-001e-0046-0062-000200780081.png",
+        "timestamp": 1554359432060,
+        "duration": 35829
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "2891db25825e0fbfd8dea4b9004f3a9e",
+        "instanceId": 363,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)"
+        ],
+        "trace": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)\n    at Object.checkLegacyResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n    at parseHttpResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n    at doSend.then.response (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.sendKeys()\n    at thenableWebDriverProxy.schedule (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElement.schedule_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n    at WebElement.sendKeys (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2174:19)\n    at actionFn (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:461:65)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at fs.readdir (/home/shafi/Desktop/woovly-automation/lib/common.js:34:16)\n    at FSReqCallback.args [as oncomplete] (fs.js:145:20)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554360521756,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360535024,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360535024,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554360535025,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360540704,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360540704,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554360540725,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554360541918,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554360541941,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551971,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551972,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360551972,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000b00f6-0058-00da-002b-001900e200e1.png",
+        "timestamp": 1554360519576,
+        "duration": 36619
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "a1983ff13ea62f1f7e45c09ef605a931",
+        "instanceId": 755,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)"
+        ],
+        "trace": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)\n    at Object.checkLegacyResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n    at parseHttpResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n    at doSend.then.response (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.sendKeys()\n    at thenableWebDriverProxy.schedule (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElement.schedule_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n    at WebElement.sendKeys (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2174:19)\n    at actionFn (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:461:65)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at fs.readdir (/home/shafi/Desktop/woovly-automation/lib/common.js:34:16)\n    at FSReqCallback.args [as oncomplete] (fs.js:145:20)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554360602253,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360615350,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360615350,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554360615351,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360621102,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360621102,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554360621125,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554360622417,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554360622435,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632473,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632474,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632474,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632474,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632474,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632474,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632474,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632474,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632474,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632474,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632474,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632474,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632475,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632475,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360632475,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "002700df-000e-0040-00e7-00bc00ec0034.png",
+        "timestamp": 1554360600826,
+        "duration": 35862
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "6c59e625ad746eeed5184cf089f98275",
+        "instanceId": 1299,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)"
+        ],
+        "trace": [
+            "WebDriverError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)\n    at Object.checkLegacyResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n    at parseHttpResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n    at doSend.then.response (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.sendKeys()\n    at thenableWebDriverProxy.schedule (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElement.schedule_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n    at WebElement.sendKeys (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2174:19)\n    at actionFn (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:461:65)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as sendKeys] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at fs.readdir (/home/shafi/Desktop/woovly-automation/lib/common.js:34:16)\n    at FSReqCallback.args [as oncomplete] (fs.js:145:20)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554360665893,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360678877,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360678877,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554360678878,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360684522,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360684522,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554360684543,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554360685627,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554360685658,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695683,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695685,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695685,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554360695685,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00b00027-0014-00f2-0097-003900690012.png",
+        "timestamp": 1554360664471,
+        "duration": 35481
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "be00b8a6b63fd6c8785f7f107039c919",
+        "instanceId": 1718,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554360985428,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360998456,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554360998456,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554360998457,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554361004120,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554361004120,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554361004139,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554361005346,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554361005372,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015396,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015396,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015396,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015396,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015396,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015396,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015396,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015396,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015397,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015397,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015397,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015397,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015397,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015397,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361015397,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00eb00fa-00c4-0078-0075-0006006d00d8.png",
+        "timestamp": 1554360983837,
+        "duration": 44794
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "22ccdc0e95733bb7afec3f71d452f4bd",
+        "instanceId": 2562,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554361925834,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554361939041,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554361939041,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554361939041,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554361944691,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554361944691,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554361944713,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554361946130,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554361946165,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956192,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956192,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956192,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956192,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956192,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956192,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956192,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956193,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956193,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956193,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956193,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956193,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956193,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956193,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554361956193,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00d10055-00ed-0077-00d9-006400e7000b.png",
+        "timestamp": 1554361924092,
+        "duration": 45355
+    },
+    {
+        "description": "Positive Case1 :- Like a Story |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "8ccd2e53fea9cc7dae2dcb33e22793e5",
+        "instanceId": 2954,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "Failed: unknown error: Element <div class=\"cancel-edit-profile bolder ml_5 woovly_bg3\" id=\"btn...Prof\" ng-click=\"saveChanges($event);manageScroll()\">Save</div> is not clickable at point (976, 865). Other element would receive the click: <div class=\"uniLoader\" style=\"display: block; opacity: 1;\">...</div>\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)"
+        ],
+        "trace": [
+            "WebDriverError: unknown error: Element <div class=\"cancel-edit-profile bolder ml_5 woovly_bg3\" id=\"btn...Prof\" ng-click=\"saveChanges($event);manageScroll()\">Save</div> is not clickable at point (976, 865). Other element would receive the click: <div class=\"uniLoader\" style=\"display: block; opacity: 1;\">...</div>\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)\n    at Object.checkLegacyResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n    at parseHttpResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n    at doSend.then.response (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.click()\n    at thenableWebDriverProxy.schedule (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElement.schedule_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n    at WebElement.click (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2092:17)\n    at actionFn (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:461:65)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at myProfile.addProfilePic (/home/shafi/Desktop/woovly-automation/pom/myProfile.js:18:41)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run it(\"Positive Case1 :- Like a Story \") in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n    at shutdownTask_.MicroTask (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:17:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:6:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554362185277,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554362198354,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554362198354,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554362198355,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554362203990,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554362203990,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554362204022,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554362205186,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554362205204,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215247,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215247,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215247,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215248,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215253,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215254,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215254,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215254,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215266,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215266,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215266,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215267,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215267,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215267,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362215267,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00aa003c-00b7-00ad-009e-00800086003f.png",
+        "timestamp": 1554362183759,
+        "duration": 44693
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "5f73d4b1417f15dc04d0dc14ee85495e",
+        "instanceId": 3434,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554362714948,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554362728181,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554362728181,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554362728181,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554362733920,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554362733920,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554362733940,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554362734524,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744878,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744878,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744878,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744878,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744883,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744884,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744884,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744884,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744884,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744884,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554362744884,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554362765085,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "006700dc-00d1-0026-0002-00a400b0008c.png",
+        "timestamp": 1554362712692,
+        "duration": 52383
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "d444d88a54426d939e152453d5da8bcf",
+        "instanceId": 4191,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554365880458,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554365894119,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554365894119,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554365894120,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554365899871,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554365899871,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554365899895,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554365900597,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914880,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914881,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914881,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914881,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554365914881,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554365931042,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00590071-0057-00a2-0010-001c00ce00bc.png",
+        "timestamp": 1554365878627,
+        "duration": 52408
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "fc3b826502fdb154b2d440c7a861641c",
+        "instanceId": 4577,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "Failed: No element found using locator: By(xpath, //*[@class='profile-add-initial bolder mt_5 cursor_pointer'])"
+        ],
+        "trace": [
+            "NoSuchElementError: No element found using locator: By(xpath, //*[@class='profile-add-initial bolder mt_5 cursor_pointer'])\n    at elementArrayFinder.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:814:27)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n    at /home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at myProfile.addProfilePic (/home/shafi/Desktop/woovly-automation/pom/myProfile.js:10:37)\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:20:21)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run it(\"Positive Case1 :- Verify Upload Profile Pic \") in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n    at shutdownTask_.MicroTask (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:17:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:6:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554366094131,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554366107567,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554366107567,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554366107568,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554366113232,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554366113232,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554366113254,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554366113740,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00ab0019-0087-0025-009c-00c900c000e2.png",
+        "timestamp": 1554366087313,
+        "duration": 36946
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "379aff468468dbdb0f95e137441e7901",
+        "instanceId": 5079,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554366958547,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554366971778,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554366971778,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554366971779,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554366977478,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554366977478,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554366977503,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554366977959,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00bc0075-003c-00e0-00ba-005a00c5004c.png",
+        "timestamp": 1554366957093,
+        "duration": 44441
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "df5b4ff3967f868db68006ed4753a38a",
+        "instanceId": 5444,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554367053508,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554367067159,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554367067160,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554367067160,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554367072850,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554367072850,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554367072881,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554367073743,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00570038-00fd-0051-003f-00b500bc00a0.png",
+        "timestamp": 1554367051951,
+        "duration": 45292
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "9181d28de296012b77f80b7c8fc5909f",
+        "instanceId": 5870,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "Failed: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)"
+        ],
+        "trace": [
+            "ElementNotVisibleError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)\n    at Object.checkLegacyResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n    at parseHttpResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n    at doSend.then.response (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.click()\n    at thenableWebDriverProxy.schedule (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElement.schedule_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n    at WebElement.click (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2092:17)\n    at actionFn (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:461:65)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at myProfile.addProfilePic (/home/shafi/Desktop/woovly-automation/pom/myProfile.js:27:52)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run it(\"Positive Case1 :- Verify Upload Profile Pic \") in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n    at shutdownTask_.MicroTask (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:17:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:6:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554367492077,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554367505303,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554367505303,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554367505304,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554367510974,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554367510974,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554367510996,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554367511819,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000c0002-00ea-003d-00c7-002200c200b8.png",
+        "timestamp": 1554367490129,
+        "duration": 45132
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "f0eb6ca5bd45d8f2329ccb7c80fdfc7b",
+        "instanceId": 6306,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "Failed: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)"
+        ],
+        "trace": [
+            "ElementNotVisibleError: element not interactable\n  (Session info: chrome=73.0.3683.86)\n  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.18.0-16-generic x86_64)\n    at Object.checkLegacyResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n    at parseHttpResponse (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n    at doSend.then.response (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/http.js:441:30)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: WebElement.click()\n    at thenableWebDriverProxy.schedule (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElement.schedule_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n    at WebElement.click (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/webdriver.js:2092:17)\n    at actionFn (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:461:65)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at myProfile.addProfilePic (/home/shafi/Desktop/woovly-automation/pom/myProfile.js:27:52)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run it(\"Positive Case1 :- Verify Upload Profile Pic \") in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n    at shutdownTask_.MicroTask (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:17:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:6:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554367989531,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368002960,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368002960,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554368002960,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368008620,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368008620,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554368008644,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554368009381,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "004400f4-0059-0071-000b-0043005c00b7.png",
+        "timestamp": 1554367987203,
+        "duration": 45914
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "5b93eafe8480c7e607ce86b3edaef960",
+        "instanceId": 6706,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554368338393,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368351469,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368351469,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554368351470,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368357117,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368357117,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554368357139,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554368357675,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554368389091,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "0094000d-00f2-0020-008b-00dc006400fc.png",
+        "timestamp": 1554368336260,
+        "duration": 52823
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "2860ca2bd9a628b68b7fe18485fcaf6e",
+        "instanceId": 7423,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554368496052,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368509163,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368509163,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554368509164,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368514842,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368514843,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554368514866,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554368515351,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/https://images.woovly.com/w_200/f6c6d320-56b7-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554368529867,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/https://images.woovly.com/w_200/f6c6d320-56b7-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554368529867,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/https://images.woovly.com/w_200/f6c6d320-56b7-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554368529867,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554368545969,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "002f00d7-0083-0023-00c3-004b00930036.png",
+        "timestamp": 1554368494220,
+        "duration": 51741
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "3da4e110f5a6dc46445c1200f79ce492",
+        "instanceId": 7827,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554368793055,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368806284,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368806284,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554368806285,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368812026,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368812026,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554368812050,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554368812763,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827312,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827312,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827312,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827313,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827313,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827313,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827313,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827313,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827313,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827313,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827313,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827313,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827313,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827313,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554368827314,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554368827314,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554368843491,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "003000bc-0078-0020-0046-00ae00840022.png",
+        "timestamp": 1554368790843,
+        "duration": 52640
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "1948dbf2d7af3d324d74791924f3c7ee",
+        "instanceId": 8186,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554368876520,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368889497,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368889497,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds - Mixed Content: The page at 'https://alpha.woovly.com/test.14/feeds' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_200/05957450-56b9-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554368889498,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554368889498,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368895282,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554368895282,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554368895307,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554368895884,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/https://images.woovly.com/w_200/05957450-56b9-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554368905915,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554368926508,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00800035-004a-0077-0089-007c00e800ea.png",
+        "timestamp": 1554368874876,
+        "duration": 51625
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "c5ff8898a2f2da2ca0d83b8d2fb5e963",
+        "instanceId": 8681,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554369522381,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369535567,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369535567,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554369535568,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369541276,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369541276,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554369541294,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554369542167,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554369572514,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00a20003-003d-0097-009c-00a0009c0086.png",
+        "timestamp": 1554369520101,
+        "duration": 52406
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "c5ff8898a2f2da2ca0d83b8d2fb5e963",
+        "instanceId": 8681,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "Failed: No element found using locator: By(xpath, //div[@class='landing-nav regular opacity50 transition300'])"
+        ],
+        "trace": [
+            "NoSuchElementError: No element found using locator: By(xpath, //div[@class='landing-nav regular opacity50 transition300'])\n    at elementArrayFinder.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:814:27)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n    at /home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at loginButton (/home/shafi/Desktop/woovly-automation/pom/login.js:4:38)\n    at doLogin.Get_Email_Login (/home/shafi/Desktop/woovly-automation/pom/login.js:55:11)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run beforeEach in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n    at shutdownTask_.MicroTask (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:9:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:6:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369577217,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369577217,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds - Mixed Content: The page at 'https://alpha.woovly.com/test.14/feeds' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_200/b8279b60-56ba-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554369577217,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554369577218,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369577799,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369577799,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554369577812,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554369577823,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/https://images.woovly.com/w_200/b8279b60-56ba-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554369588176,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00fd0074-002e-0021-00d3-008400f000c3.png",
+        "timestamp": 1554369572864,
+        "duration": 25770
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "f221bb66e9c899420e371034f74317f8",
+        "instanceId": 9139,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554369847855,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369860900,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369860900,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554369860901,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369866631,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369866631,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554369866656,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554369867501,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877542,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877542,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877542,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877543,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877546,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877546,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877546,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877546,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877552,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877552,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877552,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877553,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877553,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877553,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554369877553,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554369881631,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554369894764,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00b300c8-00dd-0089-0065-0041004200d2.png",
+        "timestamp": 1554369845802,
+        "duration": 49108
+    },
+    {
+        "description": "Positive Case1 :- Delete Uploaded Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "f221bb66e9c899420e371034f74317f8",
+        "instanceId": 9139,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369895304,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369895304,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554369895304,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554369895304,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554369895304,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554369895564,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369908645,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369908645,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds - Mixed Content: The page at 'https://alpha.woovly.com/test.14/feeds' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_200/7a074280-56bb-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554369908646,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554369908646,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554369914242,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369914244,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554369914244,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554369914265,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/https://images.woovly.com/w_200/7a074280-56bb-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554369924637,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00240056-00c2-00cd-00e0-00fc00d3009e.png",
+        "timestamp": 1554369895218,
+        "duration": 39889
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic and Edit Profile pic if Upladed |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "b7128fbc2a3b1eb56759ca8d6421416c",
+        "instanceId": 9579,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554370132184,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370145255,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370145255,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554370145255,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370151009,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370151009,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554370151036,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554370151448,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165804,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165804,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165804,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165804,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165804,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165804,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165805,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165805,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165805,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165805,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165805,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165805,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165805,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165805,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370165805,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554370165806,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554370178963,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000400d1-009d-00ed-0000-001a00ae0075.png",
+        "timestamp": 1554370130348,
+        "duration": 48808
+    },
+    {
+        "description": "Positive Case1 :- Delete Uploaded Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "b7128fbc2a3b1eb56759ca8d6421416c",
+        "instanceId": 9579,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370179564,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370179564,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554370179564,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554370179565,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554370179565,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554370179676,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370192485,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370192485,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds - Mixed Content: The page at 'https://alpha.woovly.com/test.14/feeds' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_200/2364f4d0-56bc-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554370192485,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554370192486,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554370198089,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370198090,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370198091,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554370198110,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "002400ad-0025-0095-00f4-0084005100c3.png",
+        "timestamp": 1554370179481,
+        "duration": 28216
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Cover Image |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "b7128fbc2a3b1eb56759ca8d6421416c",
+        "instanceId": 9579,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "Failed: No element found using locator: By(xpath, //div[@class='landing-nav regular opacity50 transition300'])",
+            "Failed: No element found using locator: By(xpath, //*[@id=\"saveProfileOld\"]/div[2])"
+        ],
+        "trace": [
+            "NoSuchElementError: No element found using locator: By(xpath, //div[@class='landing-nav regular opacity50 transition300'])\n    at elementArrayFinder.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:814:27)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n    at /home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at loginButton (/home/shafi/Desktop/woovly-automation/pom/login.js:4:38)\n    at doLogin.Get_Email_Login (/home/shafi/Desktop/woovly-automation/pom/login.js:55:11)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run beforeEach in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n    at shutdownTask_.MicroTask (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:10:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:7:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)",
+            "NoSuchElementError: No element found using locator: By(xpath, //*[@id=\"saveProfileOld\"]/div[2])\n    at elementArrayFinder.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:814:27)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n    at /home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at myProfile.deleteProfilePic (/home/shafi/Desktop/woovly-automation/pom/myProfile.js:44:48)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run it(\"Positive Case1 :- Verify Upload Cover Image \") in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at Function.next.fail (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4274:9)\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:30:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:7:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370212538,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370212538,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554370213083,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370213084,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370213084,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554370213104,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223865,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223865,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223865,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223865,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223867,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223867,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223867,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223867,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223871,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223871,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223871,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223871,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223871,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223871,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370223871,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "003c008f-005a-007f-0071-0014002900ed.png",
+        "timestamp": 1554370207911,
+        "duration": 16015
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic and Edit Profile pic if Upladed |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "095b7f35800dc87919c845e0fa12f706",
+        "instanceId": 10040,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554370330111,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370343133,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370343133,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554370343134,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370348868,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370348868,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554370348893,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554370349669,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363830,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363830,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363831,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363831,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363831,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363831,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363831,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363831,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363831,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363831,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363831,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363831,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363831,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363832,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370363832,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554370363832,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554370376960,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00550041-000d-00b0-004f-00ab00dd0094.png",
+        "timestamp": 1554370328590,
+        "duration": 48526
+    },
+    {
+        "description": "Positive Case1 :- Delete Uploaded Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "095b7f35800dc87919c845e0fa12f706",
+        "instanceId": 10040,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370377522,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370377522,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554370377522,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554370377526,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554370377526,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554370377799,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370390575,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370390575,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds - Mixed Content: The page at 'https://alpha.woovly.com/test.14/feeds' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_200/996f7650-56bc-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554370390575,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554370390575,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554370396196,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370396198,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370396198,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554370396216,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/https://images.woovly.com/w_200/996f7650-56bc-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554370404698,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "006c00e3-0080-00e9-008c-00e6008a00da.png",
+        "timestamp": 1554370377441,
+        "duration": 30085
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Cover Image |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "095b7f35800dc87919c845e0fa12f706",
+        "instanceId": 10040,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "Failed: No element found using locator: By(xpath, //div[@class='landing-nav regular opacity50 transition300'])",
+            "Failed: No element found using locator: By(xpath, //*[@id=\"saveProfileOld\"]/div[2])"
+        ],
+        "trace": [
+            "NoSuchElementError: No element found using locator: By(xpath, //div[@class='landing-nav regular opacity50 transition300'])\n    at elementArrayFinder.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:814:27)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n    at /home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at loginButton (/home/shafi/Desktop/woovly-automation/pom/login.js:4:38)\n    at doLogin.Get_Email_Login (/home/shafi/Desktop/woovly-automation/pom/login.js:55:11)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run beforeEach in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n    at shutdownTask_.MicroTask (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:10:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:7:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)",
+            "NoSuchElementError: No element found using locator: By(xpath, //*[@id=\"saveProfileOld\"]/div[2])\n    at elementArrayFinder.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:814:27)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n    at /home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at myProfile.deleteProfilePic (/home/shafi/Desktop/woovly-automation/pom/myProfile.js:45:48)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run it(\"Positive Case1 :- Verify Upload Cover Image \") in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at Function.next.fail (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4274:9)\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:30:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:7:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370407900,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370407900,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554370407900,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/https://images.woovly.com/w_200/996f7650-56bc-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554370407900,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370412171,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370412172,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554370412172,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554370412734,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370412735,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370412735,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554370412757,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423353,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423353,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423353,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423353,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423355,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423355,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423356,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423356,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423362,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423362,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423362,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423362,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423362,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423362,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554370423362,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554370425378,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "002800fb-00b3-001e-00cb-003100550095.png",
+        "timestamp": 1554370407801,
+        "duration": 17629
+    },
+    {
+        "description": "Positive Case2 :- Verify Upload Cover Image |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "fa494eebf4605623413704af00c16172",
+        "instanceId": 10582,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554370967634,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370980895,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370980895,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554370980895,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370986668,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554370986668,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554370986690,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554370987407,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001810,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001810,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001810,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001810,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001810,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001810,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001810,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001810,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001810,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001810,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001810,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001811,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001811,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001811,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371001811,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_1200/15b0e400-56be-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554371010931,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00840042-002c-0024-0012-009d00e100fc.png",
+        "timestamp": 1554370965840,
+        "duration": 45083
+    },
+    {
+        "description": "Positive Case2 :- Verify Upload Cover Image |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "d94a6bf904849cca0db0005642440042",
+        "instanceId": 11041,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554371498603,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554371511643,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554371511643,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554371511644,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554371517484,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554371517484,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554371517502,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554371518340,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528412,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528412,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528412,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528412,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528414,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528414,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528414,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528414,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528417,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528417,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528417,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528417,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528417,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528417,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371528418,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_1200/51f9f9f0-56bf-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554371538447,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00af0076-00b1-0068-0089-0061006100cc.png",
+        "timestamp": 1554371496233,
+        "duration": 45322
+    },
+    {
+        "description": "Positive Case2 :- Verify Upload Cover Image |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "11c49b7f1fe54900c1936cb4a94501c8",
+        "instanceId": 11420,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554371628321,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554371641684,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554371641684,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554371641685,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554371647333,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554371647334,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554371647357,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554371648168,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662641,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662641,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662641,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662641,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662642,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662642,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662642,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662642,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662642,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662642,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662642,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662642,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662642,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662642,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554371662643,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_1200/9f964b00-56bf-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554371668643,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000000eb-001b-00ed-000f-001b00860057.png",
+        "timestamp": 1554371626443,
+        "duration": 45318
+    },
+    {
+        "description": "Positive Case3 :- Verify Upload Cover Image |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "49ae4bd668ace1b8208c3915a7943ed0",
+        "instanceId": 11853,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554372129942,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372143112,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372143112,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372143113,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372148824,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372148824,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372148844,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554372149768,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163733,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163734,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163734,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372163734,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_1200/ca3855f0-56c0-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554372169735,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "0028007e-00f2-00e1-00a6-004300ee00eb.png",
+        "timestamp": 1554372127675,
+        "duration": 45111
+    },
+    {
+        "description": "Positive Case 4: Delete Cover Image|Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "49ae4bd668ace1b8208c3915a7943ed0",
+        "instanceId": 11853,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "Failed: No element found using locator: By(xpath, //div[@class='landing-nav regular opacity50 transition300'])"
+        ],
+        "trace": [
+            "NoSuchElementError: No element found using locator: By(xpath, //div[@class='landing-nav regular opacity50 transition300'])\n    at elementArrayFinder.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:814:27)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n    at /home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at loginButton (/home/shafi/Desktop/woovly-automation/pom/login.js:4:38)\n    at doLogin.Get_Email_Login (/home/shafi/Desktop/woovly-automation/pom/login.js:55:11)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run beforeEach in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n    at shutdownTask_.MicroTask (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:10:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:7:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372173470,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372173470,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372173470,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_1200/ca3855f0-56c0-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554372173470,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372177617,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372177617,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372177618,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554372178219,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372178221,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372178221,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372178243,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188922,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188922,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188923,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188923,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188924,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188924,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188924,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188924,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188927,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188927,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188928,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188928,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188928,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188928,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372188928,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00570075-0064-00e7-00e5-006400a6003c.png",
+        "timestamp": 1554372173376,
+        "duration": 17758
+    },
+    {
+        "description": "Positive Case3 :- Verify Upload Cover Image |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "00dd5801b4494a48ea576cfd575a94c6",
+        "instanceId": 12259,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554372279095,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372292405,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372292405,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372292406,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372298110,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372298110,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372298131,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554372298936,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309320,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309320,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309320,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309320,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309321,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309321,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309322,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309322,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309325,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309325,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309325,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309325,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309325,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309325,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372309325,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_1200/23761990-56c1-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554372319367,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "003d0018-00f1-00ac-007d-002b00fe00e4.png",
+        "timestamp": 1554372277499,
+        "duration": 45002
+    },
+    {
+        "description": "Positive Case 4: Delete Cover Image|Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "00dd5801b4494a48ea576cfd575a94c6",
+        "instanceId": 12259,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "Failed: No element found using locator: By(xpath, //div[@class='landing-nav regular opacity50 transition300'])"
+        ],
+        "trace": [
+            "NoSuchElementError: No element found using locator: By(xpath, //div[@class='landing-nav regular opacity50 transition300'])\n    at elementArrayFinder.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:814:27)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n    at /home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at loginButton (/home/shafi/Desktop/woovly-automation/pom/login.js:4:38)\n    at doLogin.Get_Email_Login (/home/shafi/Desktop/woovly-automation/pom/login.js:55:11)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run beforeEach in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n    at shutdownTask_.MicroTask (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:10:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:7:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372323149,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372323149,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372323149,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_1200/23761990-56c1-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554372323149,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372327433,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372327433,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372327433,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372327910,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372327910,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554372327923,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372327939,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338546,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338546,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338546,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338546,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338547,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338547,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338547,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338547,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338551,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338551,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338551,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338551,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338551,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338551,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372338551,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00c700d7-0095-00ca-0082-008e00840078.png",
+        "timestamp": 1554372323052,
+        "duration": 17675
+    },
+    {
+        "description": "Positive Case3 :- Verify Upload Cover Image |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "a3a81be4310891274b6a171ea75818d1",
+        "instanceId": 12645,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554372383395,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372396557,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372396557,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372396557,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372402188,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372402189,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372402223,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554372403113,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417002,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417002,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417002,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417002,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417002,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417003,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417003,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417003,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417003,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417003,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417003,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417003,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417003,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417003,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372417003,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_1200/6135bf60-56c1-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554372423003,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "008200d0-002e-0078-0058-001a00ed002d.png",
+        "timestamp": 1554372381784,
+        "duration": 48571
+    },
+    {
+        "description": "Positive Case 4: Delete Cover Image|Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "a3a81be4310891274b6a171ea75818d1",
+        "instanceId": 12645,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554372430956,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554372431838,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372444649,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372444649,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372444650,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554372450299,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372450303,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372450303,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372450326,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463048,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463048,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463048,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463048,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463048,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463048,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463048,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463048,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463048,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463048,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463049,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463049,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463049,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463049,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372463049,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00f500e4-00cd-001c-0085-0030008e0086.png",
+        "timestamp": 1554372431126,
+        "duration": 32055
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic and Edit Profile pic if Upladed |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "8ff262fad3d297640531728c94f8af5f",
+        "instanceId": 13105,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554372619612,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372632801,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372632801,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372632802,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372638511,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372638511,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372638534,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554372639442,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653379,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653380,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653380,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653380,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653380,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653380,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653380,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653380,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653380,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653380,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653380,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653380,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653381,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653381,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372653381,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372653381,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554372666467,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00dd0043-00a1-0016-00e5-002400980097.png",
+        "timestamp": 1554372618030,
+        "duration": 48691
+    },
+    {
+        "description": "Positive Case2 :- Delete Uploaded Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "8ff262fad3d297640531728c94f8af5f",
+        "instanceId": 13105,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372667104,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372667104,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372667105,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372667107,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554372667107,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554372667367,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372681155,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372681155,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds - Mixed Content: The page at 'https://alpha.woovly.com/test.14/feeds' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_200/ee137440-56c1-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554372681155,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372681156,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554372686817,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372686821,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372686821,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372686844,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/https://images.woovly.com/w_200/ee137440-56c1-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554372695249,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "0026008e-00f2-004a-00de-002600010088.png",
+        "timestamp": 1554372667008,
+        "duration": 30938
+    },
+    {
+        "description": "Positive Case3 :- Verify Upload Cover Image |Woovly Like Post Module ",
+        "passed": false,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "8ff262fad3d297640531728c94f8af5f",
+        "instanceId": 13105,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": [
+            "Failed: No element found using locator: By(xpath, //div[@class='landing-nav regular opacity50 transition300'])"
+        ],
+        "trace": [
+            "NoSuchElementError: No element found using locator: By(xpath, //div[@class='landing-nav regular opacity50 transition300'])\n    at elementArrayFinder.getWebElements.then (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:814:27)\n    at ManagedPromise.invokeCallback_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n    at TaskQueue.execute_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n    at TaskQueue.executeNext_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n    at asyncRun (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n    at /home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)Error\n    at ElementArrayFinder.applyAction_ (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:91:29)\n    at ElementFinder.(anonymous function).args [as click] (/home/shafi/Desktop/woovly-automation/node_modules/protractor/built/element.js:831:22)\n    at loginButton (/home/shafi/Desktop/woovly-automation/pom/login.js:4:38)\n    at doLogin.Get_Email_Login (/home/shafi/Desktop/woovly-automation/pom/login.js:55:11)\n    at processTicksAndRejections (internal/process/task_queues.js:86:5)\nFrom: Task: Run beforeEach in control flow\n    at UserContext.<anonymous> (/home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:94:19)\n    at attempt (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n    at QueueRunner.run (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n    at runNext (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n    at /home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n    at /home/shafi/Desktop/woovly-automation/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n    at shutdownTask_.MicroTask (/home/shafi/Desktop/woovly-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:10:3)\n    at addSpecsToSuite (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n    at Env.describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n    at describe (/home/shafi/Desktop/woovly-automation/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n    at Object.<anonymous> (/home/shafi/Desktop/woovly-automation/spec/specMyProfile.js:7:1)\n    at Module._compile (internal/modules/cjs/loader.js:805:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)\n    at Module.load (internal/modules/cjs/loader.js:672:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372698285,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372698285,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372698285,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/https://images.woovly.com/w_200/ee137440-56c1-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554372698286,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372702562,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372702562,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372702563,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554372703068,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372703072,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372703072,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372703090,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717790,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717790,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717790,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717790,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717790,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717790,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717790,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717790,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717790,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717790,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717791,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717791,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717791,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717791,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372717791,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_1200/14805670-56c2-11e9-b806-8df2af74ae1d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554372723791,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00750087-0014-0046-0059-00f3004a005e.png",
+        "timestamp": 1554372698185,
+        "duration": 32909
+    },
+    {
+        "description": "Positive Case 4: Delete Cover Image|Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "8ff262fad3d297640531728c94f8af5f",
+        "instanceId": 13105,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554372731638,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554372732345,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554372732453,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372745333,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372745333,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372745334,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554372750942,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372750943,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372750943,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372750966,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763629,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763629,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763629,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763629,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763629,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763629,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763630,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763630,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763630,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763630,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763630,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763630,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763630,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763630,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372763630,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "001a00fc-00f9-00ab-00ee-00d500da004b.png",
+        "timestamp": 1554372732230,
+        "duration": 31515
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic and Edit Profile pic if Upladed |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "a91eb395c64552d09302d8918d01705f",
+        "instanceId": 13607,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554372793690,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372806785,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372806785,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372806786,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372812516,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554372812517,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554372812539,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554372813397,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827285,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827285,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827285,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827285,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827286,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827286,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827286,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827286,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827286,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827286,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827286,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827286,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827286,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827286,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554372827287,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554372827287,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554372840428,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00ce0017-00d0-0033-0020-00fe00910036.png",
+        "timestamp": 1554372792299,
+        "duration": 48295
+    },
+    {
+        "description": "Positive Case1 :- Verify Upload Profile Pic and Edit Profile pic if Upladed |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "c5a2689af28175ce69bb948e7acd3e0d",
+        "instanceId": 14111,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554373162612,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373175762,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373175762,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554373175763,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373181518,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373181518,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554373181539,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://maps.googleapis.com/maps/api/js?key=AIzaSyApzLoP2zgs3DjXwEG2fwN8BErPrKMDT7A&libraries=places&callback=initAutocomplete&types=(cities) 60:127 \"InvalidValueError: not an instance of HTMLInputElement\"",
+                "timestamp": 1554373182223,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196621,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196621,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196621,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196621,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196621,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196621,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196621,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196621,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196621,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196621,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196622,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196622,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196622,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196622,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373196622,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554373196622,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554373209725,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "009d00f9-00a5-0063-002e-008600360088.png",
+        "timestamp": 1554373160933,
+        "duration": 48981
+    },
+    {
+        "description": "Positive Case2 :- Delete Uploaded Profile Pic |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "c5a2689af28175ce69bb948e7acd3e0d",
+        "instanceId": 14111,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373210296,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373210296,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554373210296,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key= - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554373210298,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/404 - Failed to load resource: the server responded with a status of 404 ()",
+                "timestamp": 1554373210298,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554373210571,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373223533,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373223533,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds - Mixed Content: The page at 'https://alpha.woovly.com/test.14/feeds' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_200/31de3b50-56c3-11e9-9768-0ffabeec9e7d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554373223533,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554373223533,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373229130,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373229130,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554373229143,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554373229151,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/https://images.woovly.com/w_200/31de3b50-56c3-11e9-9768-0ffabeec9e7d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554373237536,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000300c6-0036-0053-0036-006300ce00e6.png",
+        "timestamp": 1554373210205,
+        "duration": 37715
+    },
+    {
+        "description": "Positive Case3 :- Verify Upload Cover Image |Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "c5a2689af28175ce69bb948e7acd3e0d",
+        "instanceId": 14111,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554373248533,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373261349,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373261349,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554373261350,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554373267031,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373267033,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373267033,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554373267057,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277791,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277791,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277791,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277791,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277813,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277813,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277813,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277813,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277817,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277817,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277817,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277817,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277818,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277818,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373277818,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure image 'http://images.woovly.com.s3-website.ap-south-1.amazonaws.com/w_1200/64b6e4f0-56c3-11e9-9768-0ffabeec9e7d.jpg'. This content should also be served over HTTPS.",
+                "timestamp": 1554373287869,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00d10010-00ea-007f-00d8-00aa00ca0028.png",
+        "timestamp": 1554373248144,
+        "duration": 47030
+    },
+    {
+        "description": "Positive Case 4: Delete Cover Image|Woovly Like Post Module ",
+        "passed": true,
+        "pending": false,
+        "os": "Linux",
+        "sessionId": "c5a2689af28175ce69bb948e7acd3e0d",
+        "instanceId": 14111,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.86"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554373295754,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/js/Precommon.js?v=4094 43 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.",
+                "timestamp": 1554373296839,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373309791,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14/feeds 3550 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373309791,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://wzh2p5ewb1.execute-api.ap-south-1.amazonaws.com/prod/resized?key=w_150/null - Failed to load resource: the server responded with a status of 502 ()",
+                "timestamp": 1554373309792,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 0:0 Uncaught Pc: initAutocomplete is not a function",
+                "timestamp": 1554373315441,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373315443,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://alpha.woovly.com/test.14 3574 A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
+                "timestamp": 1554373315443,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://alpha.woovly.com/test.14 - Mixed Content: The page at 'https://alpha.woovly.com/test.14' was loaded over HTTPS, but requested an insecure script 'http://kentor.github.io/jquery-draggable-background/draggable_background.js'. This request has been blocked; the content must be served over HTTPS.",
+                "timestamp": 1554373315463,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328280,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328280,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328280,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328280,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328281,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328281,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328281,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328281,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328281,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328281,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328281,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328281,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328281,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328281,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://html2canvas.hertzen.com/dist/html2canvas.js 362:20 \"Invalid value given for Length: \\\"auto\\\"\"",
+                "timestamp": 1554373328281,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000b00a3-004c-006f-000f-002b0095001c.png",
+        "timestamp": 1554373295941,
+        "duration": 32394
     }
 ];
 
